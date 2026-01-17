@@ -1,0 +1,9 @@
+{
+	"name": "tharundemo",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "dbc90fec-6b15-444e-ad3b-206a2f9441f9",
+		"tenantId": "2733d9bf-c0e7-49c1-842b-1fa52ac1dfe3"
+	}
+}
