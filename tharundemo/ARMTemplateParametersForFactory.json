@@ -8,8 +8,38 @@
 		"AzureDataLakeStorage1_accountKey": {
 			"value": ""
 		},
+		"AzureDataLakeStorage2_accountKey": {
+			"value": ""
+		},
+		"AzureSqlDatabase1_password": {
+			"value": ""
+		},
+		"AzureSqlDatabase2_password": {
+			"value": ""
+		},
 		"AzureDataLakeStorage1_properties_typeProperties_url": {
 			"value": "https://storagepipeline165.dfs.core.windows.net/"
+		},
+		"AzureDataLakeStorage2_properties_typeProperties_url": {
+			"value": "https://storagepipeline165.dfs.core.windows.net/"
+		},
+		"AzureSqlDatabase1_properties_typeProperties_server": {
+			"value": "azuredemosql124.database.windows.net"
+		},
+		"AzureSqlDatabase1_properties_typeProperties_database": {
+			"value": "sqldemo167"
+		},
+		"AzureSqlDatabase1_properties_typeProperties_userName": {
+			"value": "admin1999"
+		},
+		"AzureSqlDatabase2_properties_typeProperties_server": {
+			"value": "azuredemosql124.database.windows.net"
+		},
+		"AzureSqlDatabase2_properties_typeProperties_database": {
+			"value": "sqldemo167"
+		},
+		"AzureSqlDatabase2_properties_typeProperties_userName": {
+			"value": "admin1999"
 		}
 	}
 }
